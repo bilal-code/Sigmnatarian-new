@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         </ThirdWebProvider> */}
         <div className="flex flex-col items-center justify-center h-screen bg-gray-100 text-center p-6">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
-            🚧 Under Construction 🚧
+            🚧 Website is Under Construction 🚧
           </h1>
           <p className="text-lg md:text-xl text-gray-600">
             We’re working hard to bring you something amazing. Stay tuned!
